@@ -1,2 +1,2 @@
 # apitesting
-My Python Programs for API Testing
+My Python Programs for REST API Testing
